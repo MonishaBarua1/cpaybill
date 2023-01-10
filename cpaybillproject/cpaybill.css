@@ -1,0 +1,18 @@
+tbody,td {
+    border: none;
+}
+.p1 {
+    font-size: 16px;
+    
+}
+.b1 {
+    border: 2px dashed #c9c9c9;
+    border-left: transparent;
+    border-right: transparent;
+    font-size: 12px;
+    
+}
+.df {
+    /* display: flex; */
+    width: 100%;
+}
